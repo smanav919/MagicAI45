@@ -1,0 +1,8 @@
+{
+    "extension_name": "testextension",
+    "files": [
+        "resources/views/panel/admin/testextension/index.blade.php",
+        "app/Http/Controllers/TestExtensionController.php",
+        "app/Models/TestExtension.php"
+    ]
+}
